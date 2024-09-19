@@ -1,0 +1,21 @@
+\contentsline {chapter}{\numberline {1}Introduction}{7}{}%
+\contentsline {chapter}{\numberline {2}Where Do We Start?}{9}{}%
+\contentsline {section}{\numberline {2.1}How is this useful?}{9}{}%
+\contentsline {section}{\numberline {2.2}First how do we evaluate $\ell $?}{11}{}%
+\contentsline {subsection}{\numberline {2.2.1}How do we evaluate $dx$ and $dy$?}{11}{}%
+\contentsline {chapter}{\numberline {3}Calculating $S$}{15}{}%
+\contentsline {section}{\numberline {3.1}We need to go backwards}{17}{}%
+\contentsline {chapter}{\numberline {4}To go backwards we must go forward}{19}{}%
+\contentsline {section}{\numberline {4.1}Rules of differentiation}{19}{}%
+\contentsline {subsection}{\numberline {4.1.1}Addition}{19}{}%
+\contentsline {subsection}{\numberline {4.1.2}Multiplication}{20}{}%
+\contentsline {subsection}{\numberline {4.1.3}Composition}{21}{}%
+\contentsline {subsubsection}{Step 1}{21}{}%
+\contentsline {subsubsection}{Step 2}{21}{}%
+\contentsline {subsection}{\numberline {4.1.4}Recap}{22}{}%
+\contentsline {chapter}{\numberline {5}Yes exponents need their own chapter}{23}{}%
+\contentsline {section}{\numberline {5.1}The product rule and Implicit Differentiation}{23}{}%
+\contentsline {subsection}{\numberline {5.1.1}Derivative of a logarithm}{24}{}%
+\contentsline {section}{\numberline {5.2}Finding the exponent rule}{26}{}%
+\contentsline {chapter}{\numberline {6}Now we can solve our initial problem}{29}{}%
+\contentsline {chapter}{\numberline {7}Final Remarks}{33}{}%
